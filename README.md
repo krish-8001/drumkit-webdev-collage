@@ -1,7 +1,7 @@
 
 # Drumkit Webapp
 
-Drum kit web besed on html,css and javascript
+Drum kit web app besed on html,css and javascript
 
 
 
